@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Swendude/m2m-examples#readme",
   "dependencies": {
+    "pg": "^8.8.0",
     "sequelize": "^6.23.2",
     "sequelize-cli": "^6.5.1"
   }
