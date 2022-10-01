@@ -1,0 +1,23 @@
+{
+  "name": "m2m-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swendude/m2m-examples.git"
+  },
+  "author": "Swendude",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Swendude/m2m-examples/issues"
+  },
+  "homepage": "https://github.com/Swendude/m2m-examples#readme",
+  "dependencies": {
+    "sequelize": "^6.23.2",
+    "sequelize-cli": "^6.5.1"
+  }
+}
